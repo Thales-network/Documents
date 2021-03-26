@@ -1,2 +1,2 @@
 # Documents
-Documents about Thelas network.
+Documents about Thales network.
